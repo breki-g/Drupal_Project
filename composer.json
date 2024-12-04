@@ -18,12 +18,14 @@
         "composer/installers": "^2.0",
         "drupal/admin_toolbar": "^3.5",
         "drupal/coffee": "^2.0",
+        "drupal/conditional_fields": "^4.0@alpha",
         "drupal/core-composer-scaffold": "^10.0",
         "drupal/core-project-message": "^10.0",
         "drupal/core-recommended": "^10.0",
         "drupal/gin": "^3.0@RC",
         "drupal/module_filter": "^5.0",
         "drupal/pathauto": "^1.13",
+        "drupal/video_embed_field": "^2.5",
         "drush/drush": "^13.3"
     },
     "conflict": {

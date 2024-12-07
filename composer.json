@@ -25,6 +25,7 @@
         "drupal/gin": "^3.0@RC",
         "drupal/module_filter": "^5.0",
         "drupal/pathauto": "^1.13",
+        "drupal/twig_tweak": "^3.4",
         "drupal/video_embed_field": "^2.5",
         "drush/drush": "^13.3"
     },
